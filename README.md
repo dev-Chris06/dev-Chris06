@@ -38,28 +38,33 @@ HTML, CSS, JavaScript.
 
 <table>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=php" height="24" alt=""> PHP</td>
-    <td><img src="https://skillicons.dev/icons?i=symfony" height="24" alt=""> Symfony</td>
     <td><img src="https://skillicons.dev/icons?i=js" height="24" alt=""> JavaScript</td>
     <td><img src="https://skillicons.dev/icons?i=ts" height="24" alt=""> TypeScript</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" height="24" alt=""> Node.js</td>
-    <td><img src="https://skillicons.dev/icons?i=express" height="24" alt=""> Express</td>
-    <td><img src="https://skillicons.dev/icons?i=react" height="24" alt=""> React</td>
-    <td><img src="https://skillicons.dev/icons?i=tailwind" height="24" alt=""> Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=mysql" height="24" alt=""> MySQL</td>
-    <td><img src="https://skillicons.dev/icons?i=sqlite" height="24" alt=""> SQLite</td>
     <td><img src="https://skillicons.dev/icons?i=html" height="24" alt=""> HTML</td>
     <td><img src="https://skillicons.dev/icons?i=css" height="24" alt=""> CSS</td>
   </tr>
   <tr>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" height="24" alt=""> Tailwind CSS</td>
+    <td><img src="https://skillicons.dev/icons?i=react" height="24" alt=""> React</td>
+    <td><img src="https://skillicons.dev/icons?i=astro" height="24" alt=""> Astro</td>
+    <td><img src="https://skillicons.dev/icons?i=php" height="24" alt=""> PHP</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=symfony" height="24" alt=""> Symfony</td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" height="24" alt=""> Node.js</td>
+    <td><img src="https://skillicons.dev/icons?i=express" height="24" alt=""> Express</td>
     <td><img src="https://skillicons.dev/icons?i=flutter" height="24" alt=""> Flutter</td>
+  </tr>
+  <tr>
     <td><img src="https://skillicons.dev/icons?i=dart" height="24" alt=""> Dart</td>
     <td><img src="https://skillicons.dev/icons?i=kotlin" height="24" alt=""> Kotlin</td>
-    <td><img src="https://skillicons.dev/icons?i=astro" height="24" alt=""> Astro</td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" height="24" alt=""> MySQL</td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite" height="24" alt=""> SQLite</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=python" height="24" alt=""> Python</td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" height="24" alt=""> C++</td>
+    <td><img src="https://skillicons.dev/icons?i=git" height="24" alt=""> Git</td>
   </tr>
 </table>
 
