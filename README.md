@@ -18,6 +18,13 @@ prescriptions, rendez-vous et historique médical. Accès par rôle
 documents et export PDF.
 React, Tailwind CSS, Node.js, Express, SQLite.
 
+**[Loady](https://github.com/DazBot13-boopt/dazdownloader)**
+Application Android qui télécharge en local les vidéos publiques de YouTube,
+TikTok, Instagram et d'autres plateformes, sans compte ni serveur. Projet mené
+à deux : j'ai réalisé le [site de présentation](https://loady-site.vercel.app)
+et je contribue au développement de l'application.
+Flutter, Kotlin, Astro.
+
 **[DIGITECH](https://github.com/dev-Chris06/digitech-site)**
 Site d'une agence fictive, réalisé seul lors d'un projet tutoré où j'étais
 responsable technique. Bilingue français et anglais.
@@ -47,6 +54,12 @@ HTML, CSS, JavaScript.
     <td><img src="https://skillicons.dev/icons?i=sqlite" height="24" alt=""> SQLite</td>
     <td><img src="https://skillicons.dev/icons?i=html" height="24" alt=""> HTML</td>
     <td><img src="https://skillicons.dev/icons?i=css" height="24" alt=""> CSS</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=flutter" height="24" alt=""> Flutter</td>
+    <td><img src="https://skillicons.dev/icons?i=dart" height="24" alt=""> Dart</td>
+    <td><img src="https://skillicons.dev/icons?i=kotlin" height="24" alt=""> Kotlin</td>
+    <td><img src="https://skillicons.dev/icons?i=astro" height="24" alt=""> Astro</td>
   </tr>
 </table>
 
