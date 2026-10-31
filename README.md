@@ -20,13 +20,13 @@ React, Tailwind CSS, Node.js, Express, SQLite.
 
 **[Loady](https://github.com/DazBot13-boopt/dazdownloader)**
 Application Android qui télécharge en local les vidéos publiques de YouTube,
-TikTok, Instagram et d'autres plateformes, sans compte ni serveur. Projet mené
-à deux : j'ai réalisé le [site de présentation](https://loady-site.vercel.app)
-et je contribue au développement de l'application.
+TikTok, Instagram et d'autres plateformes, sans compte ni serveur. Projet
+d'équipe : nous développons ensemble l'application et son
+[site de présentation](https://loady-site.vercel.app).
 Flutter, Kotlin, Astro.
 
 **[DIGITECH](https://github.com/dev-Chris06/digitech-site)**
-Site d'une agence fictive, réalisé seul lors d'un projet tutoré où j'étais
+Site d'une agence fictive, réalisé lors d'un projet tutoré où j'étais
 responsable technique. Bilingue français et anglais.
 HTML, CSS, JavaScript.
 
